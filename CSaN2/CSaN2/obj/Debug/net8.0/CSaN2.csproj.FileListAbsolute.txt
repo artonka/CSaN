@@ -1,0 +1,14 @@
+D:\4_sem\КСиС\CSaN2\CSaN2\bin\Debug\net8.0\CSaN2.exe
+D:\4_sem\КСиС\CSaN2\CSaN2\bin\Debug\net8.0\CSaN2.deps.json
+D:\4_sem\КСиС\CSaN2\CSaN2\bin\Debug\net8.0\CSaN2.runtimeconfig.json
+D:\4_sem\КСиС\CSaN2\CSaN2\bin\Debug\net8.0\CSaN2.dll
+D:\4_sem\КСиС\CSaN2\CSaN2\bin\Debug\net8.0\CSaN2.pdb
+D:\4_sem\КСиС\CSaN2\CSaN2\obj\Debug\net8.0\CSaN2.GeneratedMSBuildEditorConfig.editorconfig
+D:\4_sem\КСиС\CSaN2\CSaN2\obj\Debug\net8.0\CSaN2.AssemblyInfoInputs.cache
+D:\4_sem\КСиС\CSaN2\CSaN2\obj\Debug\net8.0\CSaN2.AssemblyInfo.cs
+D:\4_sem\КСиС\CSaN2\CSaN2\obj\Debug\net8.0\CSaN2.csproj.CoreCompileInputs.cache
+D:\4_sem\КСиС\CSaN2\CSaN2\obj\Debug\net8.0\CSaN2.dll
+D:\4_sem\КСиС\CSaN2\CSaN2\obj\Debug\net8.0\refint\CSaN2.dll
+D:\4_sem\КСиС\CSaN2\CSaN2\obj\Debug\net8.0\CSaN2.pdb
+D:\4_sem\КСиС\CSaN2\CSaN2\obj\Debug\net8.0\CSaN2.genruntimeconfig.cache
+D:\4_sem\КСиС\CSaN2\CSaN2\obj\Debug\net8.0\ref\CSaN2.dll
