@@ -1,0 +1,17 @@
+D:\4_sem\КСиС\CSaN3\CSaN3\obj\Debug\net8.0\CSaN3.GeneratedMSBuildEditorConfig.editorconfig
+D:\4_sem\КСиС\CSaN3\CSaN3\obj\Debug\net8.0\CSaN3.AssemblyInfoInputs.cache
+D:\4_sem\КСиС\CSaN3\CSaN3\obj\Debug\net8.0\CSaN3.AssemblyInfo.cs
+D:\4_sem\КСиС\CSaN3\CSaN3\obj\Debug\net8.0\CSaN3.csproj.CoreCompileInputs.cache
+D:\4_sem\КСиС\CSaN3\CSaN3\bin\Debug\net8.0\CSaN3.exe
+D:\4_sem\КСиС\CSaN3\CSaN3\bin\Debug\net8.0\CSaN3.deps.json
+D:\4_sem\КСиС\CSaN3\CSaN3\bin\Debug\net8.0\CSaN3.runtimeconfig.json
+D:\4_sem\КСиС\CSaN3\CSaN3\bin\Debug\net8.0\CSaN3.dll
+D:\4_sem\КСиС\CSaN3\CSaN3\bin\Debug\net8.0\CSaN3.pdb
+D:\4_sem\КСиС\CSaN3\CSaN3\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\4_sem\КСиС\CSaN3\CSaN3\obj\Debug\net8.0\CSaN3.csproj.AssemblyReference.cache
+D:\4_sem\КСиС\CSaN3\CSaN3\obj\Debug\net8.0\CSaN3.csproj.Up2Date
+D:\4_sem\КСиС\CSaN3\CSaN3\obj\Debug\net8.0\CSaN3.dll
+D:\4_sem\КСиС\CSaN3\CSaN3\obj\Debug\net8.0\refint\CSaN3.dll
+D:\4_sem\КСиС\CSaN3\CSaN3\obj\Debug\net8.0\CSaN3.pdb
+D:\4_sem\КСиС\CSaN3\CSaN3\obj\Debug\net8.0\CSaN3.genruntimeconfig.cache
+D:\4_sem\КСиС\CSaN3\CSaN3\obj\Debug\net8.0\ref\CSaN3.dll
