@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Сетевой Шутер</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="name-selection-menu" class="active-view"> 
+        <h1>Сетевой Шутер</h1>
+        <p>Введите ваше имя:</p>
+        <input type="text" id="playerNameInput" placeholder="Введите имя" maxlength="15">
+        <button id="startGameButton">Начать Игру</button>
+        <p id="connection-status" class="status-connecting">Подключение к серверу...</p>
+    </div>
+
+    <div id="game-area"> 
+        <div id="game-container">
+            <canvas id="gameCanvas"></canvas>
+            <div id="ui-overlay">
+                <div id="player-info">HP: <span id="playerHp">---</span> | Score: <span id="playerScore">---</span></div>
+                <div id="messages-container">
+                    <div id="messages"></div>
+                </div>
+                <div id="leaderboard">
+                    <h3>Лидеры</h3>
+                    <ul id="leaderboard-list"></ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
